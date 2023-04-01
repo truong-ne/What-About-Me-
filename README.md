@@ -5,7 +5,10 @@
 ## I'm a Associate Software Student at HCMUTE
 
 - 👨‍💻 I’m currently working on machine learning and data mining projects using golang.
-- 📚 Learning everything about Frontend and Backend technologies 😅
+- 📚 Learning everything about Backend and DevOps technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
+---
+### Music 🎧
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 ---
