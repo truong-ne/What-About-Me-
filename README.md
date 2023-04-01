@@ -10,5 +10,5 @@
 
 ---
 ### Music 🎧
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://www.youtube.com/watch?v=RxToF94s6Rc)
+[![Spotify]()](https://www.youtube.com/watch?v=RxToF94s6Rc)
 ---
