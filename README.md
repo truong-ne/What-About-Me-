@@ -10,6 +10,6 @@
 
 ---
 ### Music 🎧
-[![Music](https://media.tenor.com/6Y0adcPDE-8AAAAd/mixi-mixigaming.gif)](https://www.youtube.com/watch?v=R8CRG6iFi-Q)
+[![Music](https://media.tenor.com/Q24CQkBWtoAAAAAd/mix-mixi.gif)](https://www.youtube.com/watch?v=R8CRG6iFi-Q)
 ---
 ### res = (Human,AI) => { return Animal ? iq : eq } 
